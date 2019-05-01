@@ -1,0 +1,8 @@
+（1）操作系统: Windows 10家庭版
+（2）编译环境：jdk 1.8.0 + eclipse Version: Oxygen.3a Release (4.7.3a)
+（3）编译：javac \NetSocket\src\test\daytimetcpser.java 
+		   javac \NetSocket\src\test\daytimetcpclient.java
+（4）运行：根目录执行
+		   java -jar client.jar
+		   java -jar server.jar
+
